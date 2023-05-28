@@ -108,7 +108,7 @@ Returns the newly created booking in JSON format
 ## Support
 
 For support, **email**
-- rwghmare2017@gmail.com
+- rwaghmare2017@gmail.com
 
 
 ## project created with 
